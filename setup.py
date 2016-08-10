@@ -7,7 +7,7 @@ except ImportError:
 
 setup(
     name='queued_search',
-    version='2.1.1',
+    version='2.1.1dev1',
     description='A queuing setup for integration with Haystack.',
     author='Daniel Lindsley',
     author_email='daniel@toastdriven.com',
